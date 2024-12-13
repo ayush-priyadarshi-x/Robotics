@@ -1,10 +1,10 @@
 # Robotics Projects
 
-Welcome to my robotics repository! This collection features various projects that demonstrate my exploration of robotics, from basic hardware control to advanced AI integration.
+Welcome to my robotics repository! This collection features various projects that demonstrate my exploration of robotics, focusing solely on Python and Raspberry Pi.
 
 ## Features
 
-- **Hardware Control**: Projects using Arduino for real-time interaction with sensors and actuators.
+- **Hardware Control**: Projects using Raspberry Pi for real-time interaction with sensors and actuators.
 - **Advanced Logic**: Python-based robotics integrating AI, computer vision, and decision-making algorithms.
 - **Beginner to Advanced**: Suitable for learners at all levels.
 
@@ -18,9 +18,8 @@ Welcome to my robotics repository! This collection features various projects tha
 
 ## Technologies Used
 
-- **Arduino** for hardware programming
+- **Raspberry Pi** for hardware programming
 - **Python** for high-level logic and AI
-- **Libraries**: OpenCV, NumPy, PySerial
 
 ## License
 
